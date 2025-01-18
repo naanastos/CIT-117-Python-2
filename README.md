@@ -2,7 +2,7 @@
 ### Code Repository for STCC CIT-117/117L Python 2
 
 
-![Python]([http://url/to/img.png](https://github.com/naanastos/Test-First_Repository/raw/main/python.gif))
+![Python]([https://github.com/naanastos/Test-First_Repository/raw/main/python.gif])
 
 ## Assignments
 - [x] Create a GitHub Portfolio Link
