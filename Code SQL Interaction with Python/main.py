@@ -53,7 +53,7 @@ with open("Pay.txt", "r") as file:
 
     dbConnection.commit()
     print(f"Rows Loaded: {iRows}")
-sdfsdfdsdfs
+
 #SocialSecurityMinimum.txt
 sInsertSocialSecurityMinimum = "INSERT INTO SocialSecurityMinimum(Year, Minimum) VALUES("
 sInsertSocialSecurityMinimumReset = sInsertSocialSecurityMinimum
