@@ -59,7 +59,6 @@ sInsertSocialSecurityMinimum = "INSERT INTO SocialSecurityMinimum(Year, Minimum)
 sInsertSocialSecurityMinimumReset = sInsertSocialSecurityMinimum
 #headerList = []
 #dataList = []
-zxcxzczxczxczxczx
 
 with open("SocialSecurityMinimum.txt", "r") as file:
 
